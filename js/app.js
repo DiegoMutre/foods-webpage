@@ -23,7 +23,7 @@ function changeIcon() {
             return;
         }
         activeIcon.nextElementSibling.classList.add("change");
-    }, 1000);
+    }, 4000);
 }
 
 toggleMenu();
